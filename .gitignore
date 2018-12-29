@@ -48,8 +48,8 @@ captures/
 # Python
 *.pyc
 
-#python env
-venv
+#zip
+*.zip
 
-#mac
-.DS_STORE
+#log
+nohup.out

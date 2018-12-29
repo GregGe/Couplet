@@ -1,0 +1,39 @@
+{
+  "version": "v2.0",
+  "session": {
+    "new": false,
+    "sessionId": "4c627098-5663-4c28-96e4-ece15c2b43c0",
+    "attributes": []
+  },
+  "context": {
+    "System": {
+      "user": {
+        "userId": "userId"
+      },
+      "application": {
+        "applicationId": "botId"
+      }
+    }
+  },
+  "request": {
+    "query": {
+      "type": "TEXT",
+      "original": "打开对联"
+    },
+    "dialogState": "COMPLETED",
+    "intents": [
+      {
+        "name": "couplet",
+        "confirmationStatus": "NONE",
+        "slots": {
+
+        }
+      }
+    ],
+    "queryInfo": [],
+    "type": "IntentRequest",
+    "requestId": "8f8a75779e21423d812fcc2f689156ad_0#1_0",
+    "timestamp": "1544528647",
+    "dialogRequestId": "825f154f-ea50-47c9-980d-240f3ee6a8ff"
+  }
+}
